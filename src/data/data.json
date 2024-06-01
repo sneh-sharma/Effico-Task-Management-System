@@ -1,0 +1,107 @@
+{
+  "boards": 
+  [
+    {
+      "name": "Daily Tasks",
+      "isActive" : true,
+      "columns": 
+      [
+        {
+          "name": "Low Priority",
+          "tasks":
+          [
+            {
+              "title": "Task 1",
+              "description": "",
+              "status": "Low Priority",
+              "subtasks": 
+              [
+                {
+                  "title": "sub 1",
+                  "isCompleted": false
+                },
+                {
+                  "title": "sub 2",
+                  "isCompleted": false
+                },
+                {
+                  "title": "sub 3",
+                  "isCompleted": false
+                }
+              ]
+          }
+        ]
+        },
+        {
+          "name": "Medium Priority",
+          "tasks": 
+          [
+            {
+              "title": "Task 2",
+              "description": "",
+              "status": "Medium Priority",
+              "subtasks": 
+              [
+                {
+                  "title": "sub 1",
+                  "isCompleted": false
+                },
+                {
+                  "title": "sub 2",
+                  "isCompleted": false
+                },
+                {
+                  "title": "sub 3",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },{
+          "name": "High Priority",
+          "tasks": 
+          [
+            {
+              "title": "Task 2",
+              "description": "",
+              "status": "High Priority",
+              "subtasks": 
+              [
+                {
+                  "title": "sub 1",
+                  "isCompleted": false
+                },
+                {
+                  "title": "sub 2",
+                  "isCompleted": false
+                },
+                {
+                  "title": "sub 3",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Completed",
+          "tasks": 
+          [
+            {
+              "title": "Task 3",
+              "description": "",
+              "status": "Completed",
+              "subtasks": 
+              [
+                {
+                  "title": "sub 1",
+                  "isCompleted": false
+                }
+              ]
+            } 
+          ]
+        }
+      ]
+    }
+  ]
+}
