@@ -46,6 +46,6 @@ link to Live Project: https://efficio-task-management-system.vercel.app/
 
 # Author
 LinkedIn: [Sneh Sharma](www.linkedin.com/in/sneh-sharma-210950309)
-LinkedIn: [Kashish Devgan](www.linkedin.com/in/kashish-devgan-286b93271)
+LinkedIn: [Kashish Devgan](http://www.linkedin.com/in/kashish-devgan-286b93271)
 
 
